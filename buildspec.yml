@@ -16,7 +16,7 @@ phases:
       - npm run build
   post_build:
     commands:
-    echo post Build started on 'date'
+      - echo post Build started on 'date'
 artifacts:
   files:
     - "build/*"
