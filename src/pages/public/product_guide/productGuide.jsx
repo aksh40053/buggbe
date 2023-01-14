@@ -2,6 +2,6 @@ import React from 'react'
 
 export const ProductGuide = () => {
   return (
-    <h1>Product Guide</h1>
+    <h1>Product Guide Page</h1>
   )
 }
